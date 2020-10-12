@@ -1,5 +1,5 @@
 # Azure-Snaphot
-Used to Restore Azure Snapshots for Check Point Gateways
+Used to Restore Azure Snapshots for Check Point Gateways or Check Point Smart Centers
 
 Requirements:
 - Snapshot export from a Check Point VM
@@ -25,6 +25,6 @@ Pre-configured Azure resources needed:
 - Resource Group
 - Vnet
 - Source subnet
-- Publick IP (optional)
+- Public IP (optional)
 
 
